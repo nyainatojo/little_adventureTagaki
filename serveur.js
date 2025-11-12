@@ -2,7 +2,7 @@
 const http = require('http');
 
 // Configuration du serveur : Port et hôte
-const HOST = '127.0.0.2';  // Adresse locale
+const HOST = '127.0.0.1';  // Adresse locale
 const PORT = 3000;          // Port sur lequel le serveur écoutera
 
 // Création du serveur HTTP
