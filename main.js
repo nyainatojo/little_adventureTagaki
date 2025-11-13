@@ -12,7 +12,7 @@ const config = {
     parent:'game_phaser',
     physics:{
         default:'arcade',
-        arcade : {gravity:{y:600},debug:false}
+        arcade : {gravity:{y:0},debug:true}
     },
     scene : [scene1,scene2]
 }
